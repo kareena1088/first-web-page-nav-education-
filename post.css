@@ -1,0 +1,79 @@
+.Nav-manu{
+    background-color: #3D3BF3;
+    height: 50px;
+    width: 100%;
+    color: black;
+    display: flex;
+    position: relative;
+    bottom: 10px;
+    
+}
+
+a{
+    color:white;
+    margin-right: 150px;
+    position: relative;
+    top: 15px;
+    text-decoration: none;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+.one{
+    display: flex;
+    background-color: bisque;
+    height: 200px;
+    position: relative;
+    top: 30px;
+}
+#one{
+    flex-grow: calc(20px);
+    font-size: 25PX;
+}
+#p{
+    font-size: 25px;
+}
+h1{
+    font-size: 60px;
+}
+.two{
+    background-color: azure;
+    position: relative;
+    top: 30px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 40px;
+}
+#pone{
+    font-size: 35px;
+}
+#two{
+    font-size: 25px;
+}
+#ptwo{
+    font-size: 40px;
+}
+#four{
+    font-size: 30px;
+}
+footer{
+    background-color: black;
+    height: 90px;
+    position: relative;
+    top: 20px;
+
+    color: white;
+}
+.footer_one{
+    font-size: 30px;
+   position: fixed;
+}
+
+#footer_two{
+    margin-left: 20px;
+}
+#kkk{
+    margin-left: 10px;
+}
